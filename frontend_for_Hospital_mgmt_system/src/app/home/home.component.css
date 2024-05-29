@@ -1,0 +1,18 @@
+/* //list of the home css */
+.list-unstyled a{
+    color: beige;
+    text-decoration: none;
+}
+
+.list-unstyled a:hover{
+    color: rgb(26, 184, 26);
+    
+}
+/* //icon of the css */
+
+.list-inline i{
+    color: rgb(91, 147, 231)
+}
+.list-inline .fab:hover{
+    color: rgb(210, 17, 29)
+}

@@ -1,0 +1,16 @@
+ /* Your custom styles here */
+ .social-media-links .fab  {
+    color: #007bff; /* Default color */
+
+    
+}
+.social-media-links{
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Change color on hover */
+.social-media-links .fab:hover {
+    color: #e221af; /* Change to red on hover */
+}
